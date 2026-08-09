@@ -1,0 +1,48 @@
+const lessonTitle = "七步诗";
+
+const lessonData = [
+    // ===== 第1段 =====
+    ["煮豆", "zhǔ dòu", "Boiling beans", "Memasak kacang", "煮豆子"],
+    ["持", "chí", "to use", "untuk", "用来"],
+    ["作", "zuò", "make", "membuat", "制作"],
+    ["羹", "gēng", "soup", "sup", "汤羹"],
+    ["，", "", "", "", ""],
+    ["漉菽", "lù shū", "straining the beans", "menapis kacang", "过滤豆子"],
+    ["以为", "yǐ wéi", "to make", "untuk membuat", "用来做成"],
+    ["汁", "zhī", "juice", "jus", "豆汁"],
+    ["。", "", "", "", ""],
+    ["萁", "qí", "Beanstalks", "Tangkai kacang", "豆茎"],
+    ["在", "zài", "are at", "di", "在"],
+    ["釜", "fǔ", "cauldron", "kawah", "锅"],
+    ["下", "xià", "below", "bawah", "下面"],
+    ["燃", "rán", "burning", "terbakar", "燃烧"],
+    ["，", "", "", "", ""],
+    ["豆", "dòu", "Beans", "Kacang", "豆子"],
+    ["在", "zài", "are at", "di", "在"],
+    ["釜", "fǔ", "cauldron", "kawah", "锅"],
+    ["中", "zhōng", "inside", "dalam", "里面"],
+    ["泣", "qì", "weeping", "menangis", "哭泣"],
+    ["。", "", "", "", ""],
+    ["本", "běn", "Originally", "Pada asalnya", "本来"],
+    ["自", "zì", "from", "daripada", "从"],
+    ["同根", "tóng gēn", "same root", "akar yang sama", "同一条根"],
+    ["生", "shēng", "born", "dilahirkan", "生长"],
+    ["，", "", "", "", ""],
+    ["相煎", "xiāng jiān", "boiling each other", "saling memasak", "互相煎熬"],
+    ["何", "hé", "why", "mengapa", "为什么"],
+    ["太", "tài", "so", "begitu", "太"],
+    ["急", "jí", "urgent", "tergesa-gesa", "急迫"],
+    ["？", "", "", "", ""],
+
+    ["\n", "", "", ""], // 👈 出处
+
+    ["（", "", "", "", ""],
+    ["曹植", "cáo zhí", "Cao Zhi", "Cao Zhi", "曹植"],
+    ["《", "", "", "", ""],
+    ["七步诗", "qī bù shī", "Seven-Step Poem", "Sajak Tujuh Langkah", "七步诗"],
+    ["》", "", "", "", ""],
+    ["，", "", "", "", ""],
+    ["有", "yǒu", "with", "ada", "有"],
+    ["改动", "gǎi dòng", "adaptations", "ubah suai", "改动"],
+    ["）", "", "", "", ""]
+];
